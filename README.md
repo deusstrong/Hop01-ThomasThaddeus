@@ -6,8 +6,6 @@
 - ```cd Desktop``` (to change directory to Desktop)<br/>
 - ```mkdir CS132```(to create a directory for this course)<br/>
 - ```cd CS132``` (to change directory to CS132 folder you just created) <br/>
-- ```mkdir CS132```(to create a directory for this course)<br/>
-- ```mkdir CS132```(to create a directory for this course)<br/>
 - ```git clone <URL>```(to download this Github repository to your local machine, <strong> replace <URL> with the actual url of your repository, example below </strong>)<br/>
 ![Github URL](github-url.png) <br/>
 - ```cd <cs132-hop-hands-on-practice-GithubUsername>```(to change directory to the repository you just downloaded, <strong> note that you need to replace ```<HOP#-GithubUsername>``` with the actual repository name you just downloaded </strong>) <br/>
