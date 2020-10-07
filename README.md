@@ -20,7 +20,7 @@
 
 Once you completed the Hands-on practice, do the following to push your work to GitHub <br/>
 
-Open the terminal from the VSCode by hitting the control + ~ key, make sure you are in the right path, for example:
+Go back to the Terminal (for Mac users) or Command Prompt (for Windows users), make sure you are in the right path, for example:
 KimNguyen/Desktop/CS132/CS132-HOP-Hands-On-Practice-KimNguyenMai/Module 1 <br/>
 
 Type the following command: <br/>
